@@ -28,6 +28,7 @@
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Factory I/O](https://img.shields.io/badge/-Factory%20I/O-FF6B00?style=flat-square&logo=factory&logoColor=white)
 
 ### Specialized Software
 ![Siemens TIA Portal](https://img.shields.io/badge/-Siemens%20TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white)
