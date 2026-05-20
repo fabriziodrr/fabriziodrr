@@ -1,7 +1,7 @@
 # Hi there, I'm Fabrizio! 👋
 
 ## About Me
-🎓 **Computer Engineering Student** passionate about software development and learning new technologies.
+🎓 **MSComputer Engineering Student** passionate about software development and learning new technologies.
 
 🔭 **Currently working on:** University projects and expanding my programming skills
 
