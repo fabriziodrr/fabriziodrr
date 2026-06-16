@@ -125,15 +125,4 @@ Design of digital integrated circuits
 </tr>
 </table>
 
----
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriziodrr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziodrr&layout=compact&theme=github_dark&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=fabriziodrr&theme=darkhub&no-frame=true&row=1&column=6" />
-
-</div>
